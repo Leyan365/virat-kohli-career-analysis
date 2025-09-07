@@ -9,7 +9,7 @@ The goal of this project is to showcase data visualization and storytelling skil
 ## Dashboard Preview
 
 <br>
-<img width="1512" height="842" alt="Dashboard image" src="https://github.com/user-attachments/assets/9107561b-ae30-4803-b1d2-f7c0fee0f2aa" />
+<img width="1513" height="843" alt="dashboard" src="https://github.com/user-attachments/assets/703ea9be-46ab-4f97-a8d1-d75f67002928" />
 <br>
 
 ## Key Features
